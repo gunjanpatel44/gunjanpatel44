@@ -5,21 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjanpatel44" alt="gunjanpatel44" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gunjanpatel44" target="blank"><img src="https://img.shields.io/twitter/follow/gunjanpatel44?logo=twitter&style=for-the-badge" alt="gunjanpatel44" /></a> </p>
-
 - 🔭 I’m currently working on [E-Building](https://www.app.ebuilding.in/login)
-
-- 🌱 I’m currently learning **node.js**
 
 - 👯 I’m looking to collaborate on [Furniro](https://furniro-next.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://gunjanbhingaradiya.vercel.app/](https://gunjanbhingaradiya.vercel.app/)
 
-- 💬 Ask me about **react.js, next.js**
+- 💬 Ask me about **react.js, next.js, node.js, MERN stack**
 
 - 📫 How to reach me **gunjanbhingaradiya@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/131wXAMXiaVTamYrdcg0bYweuUtoNJsJr/view?usp=sharing](https://drive.google.com/file/d/131wXAMXiaVTamYrdcg0bYweuUtoNJsJr/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am serious.**
 
